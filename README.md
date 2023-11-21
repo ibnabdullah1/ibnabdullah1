@@ -101,6 +101,6 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hasibimamhridoy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="" align="center" /></div>
 
 <br/>
