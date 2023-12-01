@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/GJCfSdT/Linked-In-Banner.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/4TBkPSH/arafat-ibn-abdullah.png" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Arafat Ibn Abdullah </div>
