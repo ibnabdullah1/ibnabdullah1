@@ -81,7 +81,7 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 
 #### back-end [https://github.com/Porgramming-Hero-web-course/b8a11-server-side-ibnabdullah1](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-ibnabdullah1)
 
-## Heroverse
+
 
 ## Connect with me
 
@@ -99,8 +99,3 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 
 <br/>
 
-## Github Stats
-
-<div align="center"><img src="" align="center" /></div>
-
-<br/>
