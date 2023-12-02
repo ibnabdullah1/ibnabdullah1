@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Arafat Ibn Abdullah </div>
 
-<div align="center"> A full-time front-end developer 👨‍💻</div>
+<div align="center"> A MERN Stack Developer 👨‍💻</div>
 
 <br/>  
   
