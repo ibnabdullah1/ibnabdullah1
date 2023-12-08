@@ -7,7 +7,7 @@
 <div align="center"> A MERN Stack Developer 👨‍💻</div>
 
 <br/>  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=darcula&exclude_days=Wed)](https://git.io/streak-stats)
+ (https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=darcula&exclude_days=Wed)](https://git.io/streak-stats)
 Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development.Over the past six months, you've actively honed your expertise, particularly in React.js, demonstrating your focus on creating engaging and user-friendly front-end experiences.
   
 <br/>
