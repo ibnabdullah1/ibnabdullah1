@@ -2,17 +2,17 @@
 <img src="./Images/Arafat Hosen Github Banner.png" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Arafat Ibn Abdullah </div>
+### <div align="center">I'm Arafat Hosen </div>
 
 <div align="center"> A MERN Stack Developer 👨‍💻</div>
 
-<br/>  
- (https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=darcula&exclude_days=Wed)](https://git.io/streak-stats)
-Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development.Over the past six months, you've actively honed your expertise, particularly in React.js, demonstrating your focus on creating engaging and user-friendly front-end experiences.
-  
 <br/>
 
-- 🌱 I’m currently learning **Redux,Next Js**
+Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development.Over the past six months, you've actively honed your expertise, particularly in React.js, demonstrating your focus on creating engaging and user-friendly front-end experiences.
+
+<br/>
+
+- 🌱 I’m currently learning **Next Js,Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://arafat-ibn-abdullah.surge.sh/](https://arafat-ibn-abdullah.surge.sh/)
 
@@ -23,8 +23,11 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 - 📄 Know about my experiences [""]("")
 
 <br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=modern-lilac2)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=modern-lilac2">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=modern-lilac2" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
