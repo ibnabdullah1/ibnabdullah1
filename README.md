@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/xjL8ND1/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" align="center" style="width: 100%" />
+<img src="./Images/Arafat Hosen Github Banner.png" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Arafat Ibn Abdullah </div>
@@ -23,6 +23,8 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 - 📄 Know about my experiences [""]("")
 
 <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1)](https://git.io/streak-stats)
 
 ## My Skill Set
 
@@ -81,8 +83,6 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 
 #### back-end [https://github.com/Porgramming-Hero-web-course/b8a11-server-side-ibnabdullah1](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-ibnabdullah1)
 
-
-
 ## Connect with me
 
 <div align="center">
@@ -98,4 +98,3 @@ Assalamu Alaikum , I am Arafat Ibn Abdullah, a dedicated and enthusiastic React 
 </div>
 
 <br/>
-
