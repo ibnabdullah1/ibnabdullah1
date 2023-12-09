@@ -61,66 +61,21 @@
   </a>
 </p>
 
-## Projects
-
-## Real Estate Platform (Full Stack Website)
-
-#### ✔ Live-link : [https://realestatecommunity-99b97.web.app/](https://realestatecommunity-99b97.web.app/)
-
-#### front-end [https://github.com/ibnabdullah1/real-Estate-Platform-client](https://github.com/ibnabdullah1/real-Estate-Platform-client)
-
-#### back-end [https://github.com/ibnabdullah1/real-Estate-Platform-server](https://github.com/ibnabdullah1/real-Estate-Platform-server)
-
-## Zero Waste Community (Full Stack Website)
-
-#### ✔ Live link [https://zero-waste-5fb87.web.app/](https://zero-waste-5fb87.web.app/)
-
-#### front-end [https://github.com/ibnabdullah1/zero-waste-client](https://github.com/ibnabdullah1/zero-waste-client)
-
-#### back-end [https://github.com/ibnabdullah1/zero-waste-server](https://github.com/ibnabdullah1/zero-waste-server)
-
-## Dream Gadgets (E-commerce Website)
-
-#### ✔ Live link [https://dream-gadgets.web.app/](https://dream-gadgets.web.app/)
-
-#### front-end [https://github.com/ibnabdullah1/dream-gadgets-client](https://github.com/ibnabdullah1/dream-gadgets-client)
-
-#### back-end [https://github.com/ibnabdullah1/dream-gadgets-server](https://github.com/ibnabdullah1/dream-gadgets-server)
-
 ## Connect with me
 
 <p align="center">
  <a href="https://arafat-ibn-abdullah.surge.sh/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arafat" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+<a href="https://www.facebook.com/ArafatIbnAbdullah.A" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/arafatibnabdullah/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+<a href="https://github.com/ibnabdullah1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> 
 </p>
 <br />
-
-<div align="center">
-<a href="https://github.com/ibnabdullah1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/arafatibnabdullah/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ArafatIbnAbdullah.A" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>
 
 <br/>
