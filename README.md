@@ -66,29 +66,32 @@
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple" alt="GitHub Streak"  style="width: 70%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple" alt="GitHub Streak"  style="width: 80%;">
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="width: 70%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="width: 80%;">
   </a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" style="width: 70%; border: 1px solid white ;border-radius: 4px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" style="width: 80%; border: 1px solid white ;border-radius: 4px;">
   </a>
 </p>
 
 <br/>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="width: 42%;">
   </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple" alt="Top Langs" style="width: 39%; border: 1px solid white ;border-radius: 4px;">
+  </a>
+ 
 </p>
-
-<hr/>
+ 
 <br/>
 
 ![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
