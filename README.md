@@ -3,8 +3,9 @@
 </a>
 
 <br/>
+<br/>
 
-Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development.Over the past six months, you've actively honed your expertise, particularly in React.js, demonstrating your focus on creating engaging and user-friendly front-end experiences.
+**Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development.Over the past six months, you've actively honed your expertise, particularly in React.js, demonstrating your focus on creating engaging and user-friendly front-end experiences.**
 
 <br/>
 
@@ -20,18 +21,11 @@ Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-e
 
 <br/>
 
-### Current Stats
+## Tach Stacks:
 
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=modern-lilac2">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=modern-lilac2" alt="GitHub Streak" />
-  </a>
-</p>
-
-## Front & Back end Technologies:
-
-<p align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<p align="center">    
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -58,8 +52,30 @@ Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-e
 
 <br/>
 
+#### Current Stats
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="max-width: 100%;">
+  </a>
+</p>
+
+<br/>
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="max-width: 100%;">
+  </a>
+</p>
+
 ## Projects
 
+<!--
 ## Real Estate Platform (Full Stack Website)
 
 #### ✔ Live-link : [https://realestatecommunity-99b97.web.app/](https://realestatecommunity-99b97.web.app/)
@@ -123,7 +139,7 @@ Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-e
 
 - Show toasts or notifications to provide feedback to users when they log in without registering or when they successfully register and log in. You can use a library like react-toastify for this.
 
-- Many components are protected with PrivateRoute. When the user wants to go to different routes of the website by logging or registering, they can explore them. And if you click on the categories of all the brands in the hero section, you can see the products of the brand and add the products you need to your card. He can see them from the card component. He can update as he likes and delete as he likes. Its selected products are stored in MongoDB database.
+- Many components are protected with PrivateRoute. When the user wants to go to different routes of the website by logging or registering, they can explore them. And if you click on the categories of all the brands in the hero section, you can see the products of the brand and add the products you need to your card. He can see them from the card component. He can update as he likes and delete as he likes. Its selected products are stored in MongoDB database. -->
 
 ## Connect with me
 
