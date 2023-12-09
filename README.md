@@ -1,4 +1,4 @@
-<a href="https://web.facebook.com/ArafatIbnAbdullah.A/">
+<a href="https://www.linkedin.com/in/arafatibnabdullah/">
 <img src="./Images/Arafat Hosen Github Banner.png" />
 </a>
 
