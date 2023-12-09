@@ -9,15 +9,21 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Next Js,Mongoose**
+## About me
 
-- 👨‍💻 All of my projects are available at [https://arafat-ibn-abdullah.surge.sh/](https://arafat-ibn-abdullah.surge.sh/)
+<p>
 
-- 💬 Ask me about **React**
+🌱 &emsp; I’m currently learning **Next Js,Mongoose** <br/><br/>
+✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+❤️ &emsp; Love to writing code and learning new features<br/><br/>
+📧 &emsp; Reach me anytime: arfathossen541@gmail.com<br/>
+<br/>
+💬 &emsp; Ask me about anything [here](https://github.com/ibnabdullah1)
+<br/>
 
-- 📫 How to reach me **arfathossen541@gmail.com**
+📄 &emsp; Know about my experiences [""]("")
 
-- 📄 Know about my experiences [""]("")
+</p>
 
 <br/>
 
