@@ -84,7 +84,7 @@
 <br/>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="max-width: 100%;">
   </a>
 </p>
 
