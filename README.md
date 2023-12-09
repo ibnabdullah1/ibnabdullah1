@@ -60,15 +60,54 @@ Assalamu Alaikum , I am Arafat Hosen, a dedicated and enthusiastic React front-e
 
 ## Projects
 
-## Zero Waste Community Full Stack Website
+## Real Estate Platform (Full Stack Website)
 
-#### ✔ Zero Waste Community Full Stack Website with Mern stack [https://zero-waste-5fb87.web.app/](https://zero-waste-5fb87.web.app/)
+#### ✔ Live-link : [https://realestatecommunity-99b97.web.app/](https://realestatecommunity-99b97.web.app/)
 
-**Zero Waste Community Github:**
+#### front-end [https://github.com/ibnabdullah1/real-Estate-Platform-client](https://github.com/ibnabdullah1/real-Estate-Platform-client)
 
-#### front-end [https://github.com/Porgramming-Hero-web-course/b8a11-client-side-ibnabdullah1](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-ibnabdullah1)
+#### back-end [https://github.com/ibnabdullah1/real-Estate-Platform-server](https://github.com/ibnabdullah1/real-Estate-Platform-server)
 
-#### back-end [https://github.com/Porgramming-Hero-web-course/b8a11-server-side-ibnabdullah1](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-ibnabdullah1)
+#### Features:
+
+- The website is real estate platform related. Here, if the user is an agent, then he can sell the plat. And if the user is a normal user, he can only buy the plat.
+
+- The second feature of the website is that the user cannot see the details of any plat without logging in. To explore the plat details, the user must login . And Login system Google and email authentication has been implemented.
+
+- The third and one of the features of the website is that the admin panel has been implemented on this website. Where the user role admin is to show some features on the dashboard. If the user is an agent then one way and if the user is a normal user then the dashboard will show another way.
+- User's Dashboard will have some features according to the user's role. For example: admin, user and agent profile will be there. Where the user will show what kind of user. Shows the user's picture and e-mail.
+
+- agent special features : The agent can view the properties that have been added and update them. Each crud operation is alerted by toast or swal. Where the user can understand whether the add, delete, update has been done correctly.
+
+## Zero Waste Community (Full Stack Website)
+
+#### ✔ Live link [https://zero-waste-5fb87.web.app/](https://zero-waste-5fb87.web.app/)
+
+#### front-end [https://github.com/ibnabdullah1/zero-waste-client](https://github.com/ibnabdullah1/zero-waste-client)
+
+#### back-end [https://github.com/ibnabdullah1/zero-waste-server](https://github.com/ibnabdullah1/zero-waste-server)
+
+#### Features:
+
+## Dream Gadgets (E-commerce Website)
+
+#### ✔ Live link [https://dream-gadgets.web.app/](https://dream-gadgets.web.app/)
+
+#### front-end [https://github.com/ibnabdullah1/dream-gadgets-client](https://github.com/ibnabdullah1/dream-gadgets-client)
+
+#### back-end [https://github.com/ibnabdullah1/dream-gadgets-server](https://github.com/ibnabdullah1/dream-gadgets-server)
+
+#### Features:
+
+- There are some routes in the Hero section of the website. If the user is not logged in to explore the preferred route, it should not be used. All those routes are controlled by private routes.
+
+- Hero Saw Cray has a brand. Sales will show your brand's products for clicks within the brand. If user is not done or want to explore in department route without registration. If the user logins or registers, he will be granted permission to explore out.
+
+- True This website's user authentication process is implemented with Firebase. A feature is provided in the user's registration form such as user key password, user to use own, user name. And accordingly the user login message in navbar will show the picture and name to the user. The whole process is implemented by firebase.
+
+- Show toasts or notifications to provide feedback to users when they log in without registering or when they successfully register and log in. You can use a library like react-toastify for this.
+
+- Many components are protected with PrivateRoute. When the user wants to go to different routes of the website by logging or registering, they can explore them. And if you click on the categories of all the brands in the hero section, you can see the products of the brand and add the products you need to your card. He can see them from the card component. He can update as he likes and delete as he likes. Its selected products are stored in MongoDB database.
 
 ## Connect with me
 
