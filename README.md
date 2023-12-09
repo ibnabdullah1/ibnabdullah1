@@ -9,6 +9,22 @@
 
 <br/>
 
+## 🌐 Socials:
+
+<p align="center">
+ <a href="https://arafat-ibn-abdullah.surge.sh/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arafat" style="margin-bottom: 5px;" />
+ </a>
+<a href="https://www.facebook.com/ArafatIbnAbdullah.A" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/arafatibnabdullah/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ </a> 
+<a href="https://github.com/ibnabdullah1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a> 
+</p>
+
 ## About me
 
 <p>
@@ -27,7 +43,7 @@
 
 <br/>
 
-## Tach Stacks:
+## 💻 Tech Stack:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -46,7 +62,7 @@
 
 <br/>
 
-#### Current Stats
+## Current Stats
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple">
@@ -67,21 +83,13 @@
   </a>
 </p>
 
-## Connect with me
+<hr/>
+<br/>
 
 <p align="center">
- <a href="https://arafat-ibn-abdullah.surge.sh/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arafat" />
- </a>
-<a href="https://www.facebook.com/ArafatIbnAbdullah.A" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-<a href="https://www.linkedin.com/in/arafatibnabdullah/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
- </a> 
-<a href="https://github.com/ibnabdullah1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a> 
+  <a href="https://github.com/ibnabdullah1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
 </p>
-<br />
 
-<br/>
+![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
