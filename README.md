@@ -25,7 +25,7 @@
   </a> 
 </p>
 
-## About me
+## ❄️ About me
 
 <p>
 
@@ -65,7 +65,7 @@
 
 <br/>
 
-## Current Stats
+## 📊 Current Stats
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple">
