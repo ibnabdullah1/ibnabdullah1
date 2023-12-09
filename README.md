@@ -69,6 +69,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple" alt="GitHub Streak" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ibnabdullah1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution"/>
+  </a>
+</p>
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
@@ -79,17 +84,11 @@
 <br/>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="width: 100%;">
   </a>
 </p>
 
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
 
 ![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
