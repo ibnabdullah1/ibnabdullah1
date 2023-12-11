@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 
 <p align="center">
- <a href="https://arafat-ibn-abdullah.surge.sh/" target="blank">
+ <a href="https://arafathosen.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arafat" style="margin-bottom: 5px;" />
  </a>
 <a href="https://www.facebook.com/ArafatIbnAbdullah.A" target="_blank">
