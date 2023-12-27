@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/arafatibnabdullah/">
 <!-- <img src="./Images/Arafat Hosen Github Banner.png" /> -->
-<img src="./Images/Arafat Github Banner .png" />
-<!-- <img src="./Images/Github Banner.gif" /> -->
+<img src="./Images/GitBanner .png" />
+<!-- <img src="./Images/Github Banner.png" /> -->
 
 </a>
 
