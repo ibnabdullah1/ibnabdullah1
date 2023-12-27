@@ -1,5 +1,6 @@
 <a href="https://www.linkedin.com/in/arafatibnabdullah/">
-<img src="./Images/Arafat Hosen Github Banner.png" />
+<!-- <img src="./Images/Arafat Hosen Github Banner.png" /> -->
+<img src="[./Images/Arafat Hosen Github Banner.png](https://www.canva.com/design/DAF4F8UJ7z4/p342UTwymz47NnSaM0RIsA/view?utm_content=DAF4F8UJ7z4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" />
 </a>
 
 <br/>
