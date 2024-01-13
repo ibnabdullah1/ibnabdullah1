@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-**Assalamu Alaikum, I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with a strong foundation in full-stack development. Over the past six months, I have actively refined my expertise, with a particular focus on React.js. This period of dedicated learning reflects my commitment to crafting engaging and user-friendly front-end experiences.**
+**Assalamu Alaikum, I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with a strong foundation in full-stack development. Over the past One Years , I have actively refined my expertise, with a particular focus on React.js. This period of dedicated learning reflects my commitment to crafting engaging and user-friendly front-end experiences.🚀**
 
 <br/>
 
