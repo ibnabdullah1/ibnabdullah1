@@ -11,6 +11,7 @@
 **Assalamu Alaikum, I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with a strong foundation in full-stack development. Over the past One Years , I have actively refined my expertise, with a particular focus on React.js. This period of dedicated learning reflects my commitment to crafting engaging and user-friendly front-end experiences.🚀**
 
 <br/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="ibnabdullah1" /> </p>
 
 ## 🌐 Socials:
 
@@ -30,9 +31,9 @@
 
 
 </br> </br> 
- ## Profile Visitor
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="ibnabdullah1" /> </p>
-<!--  <p align="center">
+<!-- ## Profile Visitor
+
+  <p align="center">
  <img align="left" alt="" width="35%" src="https://profile-counter.glitch.me/ibnabdullah1/count.svg" />
 
 </p></br> </br>  -->
