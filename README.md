@@ -87,31 +87,23 @@
   </a>
 </p>
 
-## Current Stats
-
 <br />
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple&background=0D1117" alt="Arafat's GitHub Contribution" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" >
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight-purple" alt="Arafat's GitHub Contribution">
-  </a>
-</p>
-
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="width: 42%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 42%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple" alt="Top Langs" style="width: 39%; border: 1px solid white ;border-radius: 4px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple" alt="Top Langs" style="width: 39.5%; ">
   </a>
  
 </p>
  
 <br/>
 
-![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&area_color=00F0FF&title_color=00F0FF&area=true&hide_border=true)
