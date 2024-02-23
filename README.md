@@ -62,7 +62,7 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 <br />
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" width="90%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" width="80%">
   </a>
 </p>
 
