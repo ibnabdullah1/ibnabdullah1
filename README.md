@@ -62,13 +62,13 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 <br />
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" width="90%">
   </a>
 </p>
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 42%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 45%;">
   </a>
   <a target="_blank" rel="" href="">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple&background=fff&sideNums=ffcc00&sideLabels=ffcc00&excludeDaysLabel=ffcc00" alt="Top Langs" style="width: 39%; ">
