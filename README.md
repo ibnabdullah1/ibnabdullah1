@@ -43,7 +43,7 @@
 
 <p>
 
-🌱 &emsp; I’m currently learning **Next Js,Mongoose** <br/><br/>
+🌱 &emsp; I’m currently learning **Next Js, Mongoose, C#, .NET, MYSQL** <br/><br/>
 ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp; Love to writing code and learning new features<br/><br/>
 📧 &emsp; Reach me anytime: arfathossen541@gmail.com<br/>
@@ -87,6 +87,13 @@
   </a>
 </p>
 
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 <!-- <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="width: 81%;">
