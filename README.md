@@ -16,23 +16,11 @@
 <br/>
 Currently, I am deeply engaged in learning C#, .NET, and MySQL Server, expanding my toolkit to craft even more powerful solutions. This journey has been augmented by my foray into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**](https://dev.to/ruppysuppy) , where I've quickly established a reputation for delivering exceptional results.
 
-**Let's build the future, one line of code at a time.**
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=9745F5&style=flat" alt="ibnabdullah1" /> </p>
-
-## ❄️About me
-
-<p>
-
-🌱 &emsp; I’m currently learning **Next Js, Mongoose, C#, .NET, MYSQL** <br/><br/>
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
-📧 &emsp; Reach me anytime: arfathossen541@gmail.com<br/>
-<br/>
-💬 &emsp; Ask me about anything [here](https://github.com/ibnabdullah1)
-<br/>
-
+<p style="color:#00F0FF">
+    <strong>Let's build the future, one line of code at a time.</strong>
 </p>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00F0FF&style=flat" alt="ibnabdullah1" /> </p>
 
 <br/>
 
