@@ -55,14 +55,14 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 
 <p align="center">
   <a href="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple&hide_border=true&background=000&stroke=000&fire=00F0FF&currStreakNum=00F0FF&ring=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak"  width="81%"">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple&hide_border=true&background=000&stroke=000&fire=00F0FF&currStreakNum=00F0FF&ring=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak"  width="84%"">
   </a>
 </p>
 
 <br />
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" width="80%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" width="85%">
   </a>
 </p>
 
