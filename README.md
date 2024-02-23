@@ -68,10 +68,10 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 42%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 46%;">
   </a>
   <a target="_blank" rel="" href="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple&background=fff&sideNums=ffcc00&sideLabels=ffcc00&excludeDaysLabel=ffcc00" alt="Top Langs" style="width: 39%; ">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple&background=fff&sideNums=ffcc00&sideLabels=ffcc00&excludeDaysLabel=ffcc00" alt="Top Langs" style="width: 42%; ">
   </a>
  
 </p>
