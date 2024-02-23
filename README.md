@@ -13,24 +13,6 @@
 <br/>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=9745F5&style=flat" alt="ibnabdullah1" /> </p>
 
-## 🌐 Socials:
-
-<p align="center">
- <a href="https://arafathosen.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arafat" style="margin-bottom: 5px;" />
- </a>
-<a href="https://www.facebook.com/ArafatIbnAbdullah.A" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-<a href="https://www.linkedin.com/in/arafatibnabdullah/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
- </a> 
-<a href="https://github.com/ibnabdullah1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a> 
-</p>
-
-</br> </br>
-
 ## ❄️About me
 
 <p>
@@ -104,3 +86,14 @@
 <br/>
 
 ![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&area_color=00F0FF&title_color=00F0FF&area=true&hide_border=true)
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://arafathosen.vercel.app/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1mxshyoELnkhLf7oM2C3dVIPE6E4AHMUL/view?usp=sharing)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arafatibnabdullah/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ibnabdullah1)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](arfathossen541@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arafat_hosen/)
+
+</br> </br>
