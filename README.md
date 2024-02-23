@@ -10,15 +10,13 @@
 
 ## 🚀 About Me
 
-🎓 I am [**Arafat Hosen**](https://www.linkedin.com/in/arafatibnabdullah/) , a **Front End Web Developer** (specializing in **React Applications**) and a [**Freelancer**](https://www.fiverr.com/arafat_hosen1) on _Fiverr_. I am also Pursuing my Bachelor in **Bachelor of Business Studies** and continuously learning about **Web/Software Development**.
+🎓 I am **Arafat Hosen** , a **Front End Web Developer** (specializing in **React Applications**) and a [**Freelancer**](https://www.fiverr.com/arafat_hosen1) on _Fiverr_. I am also Pursuing my Bachelor in **Bachelor of Business Studies** and continuously learning about **Web/Software Development**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** . I am really enthusiastic about learning new technology. In 2023, I learned **Frontend Architecture** and **Back en development**.
-<br/>
-Currently, I am deeply engaged in learning C#, .NET, and MySQL Server, expanding my toolkit to craft even more powerful solutions. This journey has been augmented by my foray into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**](https://dev.to/ruppysuppy) , where I've quickly established a reputation for delivering exceptional results.
 
-<p >
-    <a><strong>Let's build the future, one line of code at a time</strong>.</a>
-</p>
+Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey has been augmented by my foray into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**]() , where I've quickly established a reputation for delivering exceptional results.
+
+**Let's build the future, one line of code at a time.**
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00F0FF&style=flat" alt="ibnabdullah1" /> </p>
 
@@ -26,7 +24,7 @@ Currently, I am deeply engaged in learning C#, .NET, and MySQL Server, expanding
 
 ## 🏅 Achievements
 
-- 🥇 Achieved the highest rank certificate 'BLACK BELT' from Programming Hero
+- 🥇 Achieved the highest rank certificate **'BLACK BELT'** from Programming Hero
   <br/>
 
 <br/>
