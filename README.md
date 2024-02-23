@@ -78,7 +78,7 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
  
 <br/>
 
-![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&area_color=00F0FF&title_color=00F0FF&area=true&hide_border=true)
+![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Arafat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&area_color=00F0FF&title_color=00F0FF&area=true&hide_border=true)
 
 ## 🔗 Links
 
