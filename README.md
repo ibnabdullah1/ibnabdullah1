@@ -11,7 +11,6 @@
 **Assalamu Alaikum, I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with a strong foundation in full-stack development. Over the past One Years , I have actively refined my expertise, with a particular focus on React.js. This period of dedicated learning reflects my commitment to crafting engaging and user-friendly front-end experiences.🚀**
 
 <br/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="ibnabdullah1" /> </p> -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=9745F5&style=flat" alt="ibnabdullah1" /> </p>
 
 ## 🌐 Socials:
@@ -32,13 +31,6 @@
 
 </br> </br>
 
-<!-- ## Profile Visitor
-
-  <p align="center">
- <img align="left" alt="" width="35%" src="https://profile-counter.glitch.me/ibnabdullah1/count.svg" />
-
-</p></br> </br>  -->
-
 ## ❄️About me
 
 <p>
@@ -51,9 +43,14 @@
 💬 &emsp; Ask me about anything [here](https://github.com/ibnabdullah1)
 <br/>
 
-📄 &emsp; Know about my experiences [""]("")
-
 </p>
+
+<br/>
+
+## 🏅 Achievements
+
+- 🥇 Achieved the highest rank certificate 'BLACK BELT' from Programming Hero
+  <br/>
 
 <br/>
 
@@ -98,8 +95,8 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 42%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple" alt="Top Langs" style="width: 39.5%; ">
+  <a target="_blank" rel="" href="">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple&background=fff&sideNums=ffcc00&sideLabels=ffcc00&excludeDaysLabel=ffcc00" alt="Top Langs" style="width: 39%; ">
   </a>
  
 </p>
