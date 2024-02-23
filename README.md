@@ -30,8 +30,8 @@
   </a> 
 </p>
 
+</br> </br>
 
-</br> </br> 
 <!-- ## Profile Visitor
 
   <p align="center">
@@ -82,26 +82,23 @@
 ## 📊 Current Stats
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple" alt="GitHub Streak"  style="width: 81%;">
+  <a href="">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=midnight-purple&hide_border=true&background=0D1117&stroke=0D1117&fire=00F0FF&currStreakNum=00F0FF&ring=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak"  width="81%"">
   </a>
 </p>
 
-
-## :chart_with_upwards_trend: Current Stats
+## Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-<!-- <p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibnabdullah1&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="width: 81%;">
+  <a href="https://github.com/ibnabdullah1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple&background=0D1117" alt="Arafat's GitHub Contribution" >
   </a>
-</p> -->
+</p>
+
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" style="width: 81%; border: 1px solid white ;border-radius: 4px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight-purple" alt="Arafat's GitHub Contribution">
   </a>
 </p>
 
