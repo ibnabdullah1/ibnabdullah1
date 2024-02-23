@@ -16,8 +16,8 @@
 <br/>
 Currently, I am deeply engaged in learning C#, .NET, and MySQL Server, expanding my toolkit to craft even more powerful solutions. This journey has been augmented by my foray into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**](https://dev.to/ruppysuppy) , where I've quickly established a reputation for delivering exceptional results.
 
-<p style="color:#00F0FF">
-    <strong>Let's build the future, one line of code at a time.</strong>
+<p >
+    <a><strong>Let's build the future, one line of code at a time</strong>.</a>
 </p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00F0FF&style=flat" alt="ibnabdullah1" /> </p>
