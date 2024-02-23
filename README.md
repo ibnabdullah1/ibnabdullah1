@@ -8,9 +8,16 @@
 <br/>
 <br/>
 
-**Assalamu Alaikum, I am Arafat Hosen, a dedicated and enthusiastic React front-end developer with a strong foundation in full-stack development. Over the past One Years , I have actively refined my expertise, with a particular focus on React.js. This period of dedicated learning reflects my commitment to crafting engaging and user-friendly front-end experiences.🚀**
+## 🚀 About Me
 
+🎓 I am [**Arafat Hosen**](https://www.linkedin.com/in/arafatibnabdullah/) , a **Front End Web Developer** (specializing in **React Applications**) and a [**Freelancer**](https://www.fiverr.com/arafat_hosen1) on _Fiverr_. I am also Pursuing my Bachelor in **Bachelor of Business Studies** and continuously learning about **Web/Software Development**.
+
+👨‍💻 I enjoy contributing to **Open Source Projects** . I am really enthusiastic about learning new technology. In 2023, I learned **Frontend Architecture** and **Back en development**.
 <br/>
+Currently, I am deeply engaged in learning C#, .NET, and MySQL Server, expanding my toolkit to craft even more powerful solutions. This journey has been augmented by my foray into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**](https://dev.to/ruppysuppy) , where I've quickly established a reputation for delivering exceptional results.
+
+**Let's build the future, one line of code at a time.**
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=9745F5&style=flat" alt="ibnabdullah1" /> </p>
 
 ## ❄️About me
