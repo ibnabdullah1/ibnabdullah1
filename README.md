@@ -58,6 +58,11 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1%20&theme=midnight-purple&hide_border=true&background=000&stroke=000&fire=00F0FF&currStreakNum=00F0FF&ring=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak"  width="84%"">
   </a>
 </p>
+<p align="center">
+  <a href="">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1%20&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br />
 <p align="center">
