@@ -18,11 +18,10 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 
 ## 🌟 About Altium Tech
 
-**Altium Tech**, founded by me, **Arafat Hosen**, is a dynamic technology company dedicated to providing innovative IT solutions and digital transformation services. At Altium Tech, we focus on creating custom software and web applications that drive business success. Our mission is to leverage technology to solve real-world challenges and enhance operational efficiency.
-
-With a commitment to excellence and a passion for technology, **Altium Tech** aims to help businesses navigate the complexities of the digital world and achieve their goals.
+**Altium Tech** is a dynamic technology company that I founded, dedicated to providing innovative IT solutions and digital transformation services. You can check out our projects and contributions on our [**Altium Tech GitHub**](https://github.com/altiumtech).
 
 **Let's build the future, one line of code at a time.**
+
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00F0FF&style=flat" alt="ibnabdullah1" /> </p>
