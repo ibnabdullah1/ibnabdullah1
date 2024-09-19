@@ -10,13 +10,20 @@
 
 ## 🚀 About Me
 
-🎓 I am **Arafat Hosen** , a **Front End Web Developer** (specializing in **React Applications**) and a [**Freelancer**](https://www.fiverr.com/arafat_hosen1) on _Fiverr_. I am also Pursuing my Bachelor in **Bachelor of Business Studies** and continuously learning about **Web/Software Development**.
+🎓 I am **Arafat Hosen**, a **Front End Web Developer** specializing in **React Applications** and a [**Freelancer**](https://www.fiverr.com/arafat_hosen1) on _Fiverr_. I am also pursuing a Bachelor of Business Studies and continuously learning about **Web/Software Development**.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** . I am really enthusiastic about learning new technology. In 2023, I learned **Frontend Architecture** and **Back en development**.
+👨‍💻 I enjoy contributing to **Open Source Projects** and am enthusiastic about learning new technologies. In 2023, I focused on **Frontend Architecture** and **Backend Development**.
 
-Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey has been augmented by my foray into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**]() , where I've quickly established a reputation for delivering exceptional results.
+Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey is complemented by my ventures into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**](#), where I've quickly established a reputation for delivering exceptional results.
+
+## 🌟 About Altium Tech
+
+**Altium Tech**, founded by me, **Arafat Hosen**, is a dynamic technology company dedicated to providing innovative IT solutions and digital transformation services. At Altium Tech, we focus on creating custom software and web applications that drive business success. Our mission is to leverage technology to solve real-world challenges and enhance operational efficiency.
+
+With a commitment to excellence and a passion for technology, **Altium Tech** aims to help businesses navigate the complexities of the digital world and achieve their goals.
 
 **Let's build the future, one line of code at a time.**
+
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00F0FF&style=flat" alt="ibnabdullah1" /> </p>
 
