@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-🎓 I am **Arafat Hosen**, a **Front End Web Developer** specializing in **React Applications** and a [**Freelancer**](https://www.fiverr.com/arafat_hosen1) on _Fiverr_. I am also pursuing a Bachelor of Business Studies and continuously learning about **Web/Software Development**.
+🎓 I am **Arafat Hosen**, a **Front End Web Developer** specializing in **React Applications** and a **Freelancer** on _Fiverr_. I am also pursuing a Bachelor of Business Studies and continuously learning about **Web/Software Development**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am enthusiastic about learning new technologies. In 2023, I focused on **Frontend Architecture** and **Backend Development**.
 
-Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey is complemented by my ventures into [**Freelancing**](https://www.fiverr.com/arafat_hosen1) and [**Blogging**](#), where I've quickly established a reputation for delivering exceptional results.
+Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey is complemented by my ventures into **Freelancing** and [**Blogging**](#), where I've quickly established a reputation for delivering exceptional results.
 
 ## 🌟 About Altium Tech
 
