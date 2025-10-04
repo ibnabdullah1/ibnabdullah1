@@ -10,21 +10,15 @@
 
 ## 🚀 About Me
 
-🎓 I am **Arafat Hosen**, a **Front End Web Developer** specializing in **React Applications** and a **Freelancer** on _Fiverr_. I am also pursuing a Bachelor of Business Studies and continuously learning about **Web/Software Development**.
+🎓 I am **Ibn Abdullah**, a **Software Developer** specializing in **building modern CRM, ERP & EMS solutions**. I focus on **transforming ideas into scalable enterprise software**. I am also pursuing a **Bachelor of Business Studies** and continuously expanding my knowledge in **Software Engineering and DevOps**.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and am enthusiastic about learning new technologies. In 2023, I focused on **Frontend Architecture** and **Backend Development**.
+👨‍💻 I enjoy contributing to **Open Source Projects** and learning new technologies. In 2023, I focused on **Frontend Architecture** and **Backend Development**, and in 2025 I am further enhancing my **Full Stack Development skills** to build **modern, scalable software solutions**.
 
-Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey is complemented by my ventures into **Freelancing** and [**Blogging**](#), where I've quickly established a reputation for delivering exceptional results.
-
-## 🌟 About Altium Tech
-
-**Altium Tech** is a dynamic technology company that I founded, dedicated to providing innovative IT solutions and digital transformation services. You can check out our projects and contributions on our [**Altium Tech GitHub**](https://github.com/altiumtech).
+Currently, I am deeply engaged in learning **C, C++, Python**, and **MySQL Server**, expanding my toolkit to craft even more powerful solutions. This journey is complemented by my ventures into **Freelancing** and [**Blogging**](#), where I have quickly established a reputation for delivering high-quality results.
 
 **Let's build the future, one line of code at a time.**
 
-
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00F0FF&style=flat" alt="ibnabdullah1" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnabdullah1&label=Profile%20views&color=00a100&style=flat" alt="ibnabdullah1" /> </p>
 
 <br/>
 
@@ -35,25 +29,42 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 
 <br/>
 
-## 💻 Tech Stack:
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 💻 Tech Stacks:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-00BFFF?style=for-the-badge&logo=none&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-008080?style=for-the-badge&logo=none&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RDBMS](https://img.shields.io/badge/RDBMS-ff9900?style=for-the-badge&logo=database&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0088cc?style=for-the-badge&logo=none&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FB7200?style=for-the-badge&logo=cpanel&logoColor=white)
+![aaPanel](https://img.shields.io/badge/aaPanel-0052cc?style=for-the-badge&logo=aaPanel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 <br/>
 
@@ -61,38 +72,37 @@ Currently, I am deeply engaged in learning **C#**, **.NET**, and **MySQL Server*
 
 <p align="center">
   <a href="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1%20&theme=midnight-purple&hide_border=true&background=000&stroke=000&fire=00F0FF&currStreakNum=00F0FF&ring=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak"  width="84%"">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibnabdullah1%20&theme=chartreuse-dark&hide_border=true&background=000&stroke=000&fire=00a100&currStreakNum=00a100&ring=00a100&currStreakLabel=00a100" alt="GitHub Streak"  width="84%"">
   </a>
 </p>
 
 <br />
 <p align="center">
   <a href="https://github.com/ibnabdullah1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=midnight_purple" alt="Arafat's GitHub Contribution" width="85%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnabdullah1&theme=chartreuse_dark" alt="Arafat's GitHub Contribution" width="85%">
   </a>
 </p>
 
+
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple&hide_border=true" alt="Top Langs" style="width: 43%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&theme=chartreuse-dark&layout=compact&hide_border=true&text_color=fff&icon_color=00761d&bg_color=000&border_color=00761d" alt="Top Langs" style="width: 43%;">
   </a>
   <a target="_blank" rel="" href="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=midnight_purple&background=fff&sideNums=ffcc00&sideLabels=ffcc00&excludeDaysLabel=ffcc00" alt="Top Langs" style="width: 41%; ">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnabdullah1&theme=chartreuse_dark&background=fff&sideNums=ffcc00&sideLabels=ffcc00&excludeDaysLabel=ffcc00" alt="Top Langs" style="width: 41%; ">
   </a>
  
 </p>
  
 <br/>
 
-![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Arafat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=00F0FF&point=00F0FF&area_color=00F0FF&title_color=00F0FF&area=true&hide_border=true)
+![Arafat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnabdullah1&custom_title=Arafat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00a100&line=00a100&point=00a100&area_color=00a100&title_color=00a100&area=true&hide_border=true)
 
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://arafathosen.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11XUmM119UA8EZH5GfUYZ2WbPdzJw2QU6/view?usp=drive_link)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arafatibnabdullah/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ibnabdullah1)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arfathossen541@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arafat_hosen1/)
 
 </br> </br>
